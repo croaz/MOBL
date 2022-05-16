@@ -1,8 +1,11 @@
 # MOBL
 ## Introduction
 * Mobile Biomechanics Laboratory (MOBL) is an open-access Android-based mobile app for undergraduate biomechanics education. 
+* Students can practice real-time biomechanics analysis through this app which consists of a mobile platform-based computer-vision algorithm, a human kinematics variable estimator, and a user interface. 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82116855/168656667-0586d3f3-47f7-4c13-8a63-243367374c11.PNG" width="1000">
+</p>
 * The app includes 10 modules that can demonstrate joint angular kinematics, body segment center of mass, and jumping height. 
-[figure3](https://user-images.githubusercontent.com/82116855/168656261-a7f4a23a-ebd0-4092-851b-d00b94e1ab30.png)
 
 * For an insight view of MOBL, please refer to our paper <em>(Wang, H., Lu, L., Xie, Z., Su, B., & Xu, X. (2022). A mobile platform app to assist learning human kinematics in undergraduate biomechanics courses. Proceedings of the Human Factors and Ergonomics Society Annual Meeting.)</em>.
 * **GITHUB use:**
